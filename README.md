@@ -8,7 +8,7 @@ This a project for Udacity Front-end Nanodegree. My mission is to compelete the 
 
 ### How to run it?
 
-All you need is to do is:
+All you need to do is:
 
 1. Uncompress the zip file
 2. Locate the *index.html* file
